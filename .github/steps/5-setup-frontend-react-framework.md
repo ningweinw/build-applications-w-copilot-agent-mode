@@ -103,27 +103,6 @@ Now, let's actually try running the react application! In the left sidebar, sele
 > Don't proceed with the next activity until all of these steps are completed.
 >```
 
-### :keyboard: Activity: Let's make the octofit tracker app look nice, pretty, and add some color
-
-> **Prompt**
->
-> ```prompt
-> Based on the example monafit tracker app in the docs/mona-high-school-fitness-tracker.md file and use octofit as the name for mergington's high schools app. Let's style this like App.css and make it look nice.
-> 
-> -  Edit the App.css file to do the following:
->   - Add some color to the background.
->   - Add some color to the text.
->   - Add some color to the tables.
->   - Add some color to the buttons.
->   - Add some color to the headings.
->   - Add some color to the links.
->   - Add some color to the navigation menu.
-> - Add the octofitapp-small logo justified to the left to the app and make it look nice.
-> - Add a favicon to the app and make it look nice.
->
->Don't proceed with the next activity until all of these steps are completed.
->```
-
 ### :keyboard: Optional Activity: Iterate on the appearance and try different models
 
 >[!NOTE]
